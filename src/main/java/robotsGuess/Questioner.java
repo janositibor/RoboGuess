@@ -15,7 +15,6 @@ public class Questioner {
     }
 
     private void setGuess(){
-//        guess=(long)((1.0*min/2)+(1.0*max/2));
         guess=min+((max/2)-(min/2));
     }
 
